@@ -1,0 +1,17 @@
+.navbar-inverse {
+  background-image:none !important;
+
+}
+
+.navbar {
+  border-radius: 0px;
+}
+.navbar-default, .navbar-inverse {
+   border:none;
+   text-shadow: none;
+}
+
+.navbar-inverse {
+  background-color: #ff7300;
+  border:none;
+}
